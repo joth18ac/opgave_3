@@ -1,1 +1,3 @@
-# opgave_3
+# Opgave_3
+
+Dette et den obligatoriske opgave 3 
